@@ -1,0 +1,22 @@
+{
+    "name": "UnironPython",
+    "rootNamespace": "UnironPython",
+    "references": [
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "IronPython.dll",
+        "Microsoft.Dynamic.dll",
+        "Microsoft.Scripting.dll",
+        "Microsoft.Scripting.Metadata.dll",
+        "IronPython.Modules.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

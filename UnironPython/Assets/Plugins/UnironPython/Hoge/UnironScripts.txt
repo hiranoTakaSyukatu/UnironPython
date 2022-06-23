@@ -1,0 +1,10 @@
+import UnityEngine
+from UnityEngine import *
+
+Debug.Log( 'Hello World!' )
+Debug.Log( 'timeScale: %f' % Time.timeScale )
+
+go = GameObject()
+go.name = 'pokemon'
+rigidbody = go.AddComponent( Rigidbody )
+rigidbody.isKinematic = True
